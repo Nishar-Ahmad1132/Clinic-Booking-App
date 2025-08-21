@@ -14,7 +14,7 @@ A Flutter application for booking medical appointments.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Nishar_Ahamd/clinic_booking_app.git
+git clone https://github.com/Nishar-Ahamd/clinic_booking_app.git
 ```
 
 2. Install dependencies
